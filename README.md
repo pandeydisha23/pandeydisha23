@@ -2,17 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,50:312E81,100:7C3AED&height=210&section=header&text=Disha%20Pandey&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Disha Pandey!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Reality;Learning.+Building.+Innovating." alt="Typing SVG" />
+### 💻 Computer Science Engineer | Software Developer | AI Aficionado | MERN Stack Developer
 
-<p>
-  <a href="https://github.com/pandeydisha23">
-    <img src="https://komarev.com/ghpvc/?username=pandeydisha23&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-10B981?style=flat-square"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;MERN+Stack+%7C+Software+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
