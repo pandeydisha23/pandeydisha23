@@ -8,7 +8,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;MERN+Stack+%7C+Software+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning | MERN+Stack+%7C+Software+Development | Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
