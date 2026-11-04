@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Disha Pandey!
 
-### 💻 Computer Science Engineer | AI & ML Enthusiast | Problem Solver
+### 💻 Computer Science Engineer | Software Developer | AI & ML Enthusiast | Problem Solver 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Passionate+Problem+Solver;Building+Intelligent+Solutions" />
@@ -13,9 +13,9 @@
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, passionate about building intelligent solutions and solving real-world problems through technology.
 
 - 🎓 B.Tech in CSE (AI & ML)
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 🤖 Interested in Artificial Intelligence, Machine Learning algorithms.
 - 💡 Solved **1000+ problems on CodeChef**.
-- 🧩 Solved **250+ problems on LeetCode**.
+- 🧩 Solved **500+ problems on LeetCode**.
 - 🏆 Participated in 15+ coding contests.
 - ☁️ Exploring Cloud Computing and Full-Stack Development.
 - 🚀 Always learning, building and improving!
@@ -74,7 +74,7 @@ An AI-powered military intelligence and threat analysis platform designed to aut
 </p>
 
 - 1000+ problems solved on CodeChef.
-- 250+ problems solved on LeetCode.
+- 500+ problems solved on LeetCode.
 - Participated in 15+ coding contests.
 - Strong interest in Data Structures, Algorithms and Problem Solving.
 
