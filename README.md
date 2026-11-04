@@ -1,125 +1,175 @@
-# 👋 Hi, I'm Disha Pandey!
+<!-- PROFILE HEADER -->
 
-### 💻 Computer Science Engineer | Software Developer | AI & ML Enthusiast | Problem Solver 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Passionate+Problem+Solver;Building+Intelligent+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,50:312E81,100:7C3AED&height=210&section=header&text=Disha%20Pandey&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Reality;Learning.+Building.+Innovating." alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/pandeydisha23">
+    <img src="https://komarev.com/ghpvc/?username=pandeydisha23&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-10B981?style=flat-square"/>
 </p>
 
+</div>
+
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, passionate about building intelligent solutions and solving real-world problems through technology.
+I'm a **B.Tech Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning**, passionate about developing intelligent applications and solving challenging problems through technology.
 
-- 🎓 B.Tech in CSE (AI & ML)
-- 🤖 Interested in Artificial Intelligence, Machine Learning algorithms.
-- 💡 Solved **1000+ problems on CodeChef**.
-- 🧩 Solved **500+ problems on LeetCode**.
-- 🏆 Participated in 15+ coding contests.
+- 🎓 Computer Science & Engineering (AI & ML)
+- 🤖 Passionate about Machine Learning algorithms, Deep Learning and Generative AI.
+- 💻 Strong interest in Data Structures & Algorithms.
+- 🧠 Solved **1000+ problems on CodeChef** and **500+ on LeetCode**.
+- 🏆 Participated in 15+ competitive programming contests.
+- 🚀 Building AI-powered applications and real-world projects.
 - ☁️ Exploring Cloud Computing and Full-Stack Development.
-- 🚀 Always learning, building and improving!
+
+**My goal:** Shipping better code for a cleaner web interface
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Technical Skills
+
+<div align="center">
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark" />
 
 ### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
 
 ### Web Development & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi,mysql,mongodb" />
-</p>
 
-### Developer Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi,mysql,mongodb&theme=dark" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws&theme=dark" />
+
+</div>
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Project
 
-### 🛡️ SentinelAI – AI-Based Military Intelligence & Threat Analysis System
+<div align="center">
 
-An AI-powered military intelligence and threat analysis platform designed to automate threat detection and support intelligent decision-making.
+### 🛡️ SentinelAI
+**AI-Based Military Intelligence & Threat Analysis System**
 
-**Key Technologies:**
-- Python, FastAPI and Machine Learning
-- YOLOv8 and Computer Vision
-- Scikit-learn and Random Forest
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer-Vision-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-059669?style=for-the-badge"/>
+
+</div>
+
+An intelligent threat detection and military intelligence platform designed to support automated object detection, mission risk assessment and data-driven decision-making.
+
+**Core Technologies**
+
+- Python, FastAPI and Scikit-learn
+- YOLOv8 and OpenCV
+- Random Forest Classification
 - React and Data Visualization
 
-🔗 **[Explore SentinelAI on GitHub](https://github.com/pandeydisha23/SentinelAI---AI-Based-Military-Intelligence-and-Threat-Analysis-System)**
+<div align="center">
+
+<a href="https://github.com/pandeydisha23/SentinelAI---AI-Based-Military-Intelligence-and-Threat-Analysis-System">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🧠 Competitive Programming
+## 🧩 Competitive Programming
 
-<p align="center">
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-1000%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<div align="center">
 
-- 1000+ problems solved on CodeChef.
-- 500+ problems solved on LeetCode.
-- Participated in 15+ coding contests.
-- Strong interest in Data Structures, Algorithms and Problem Solving.
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-1000%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://img.shields.io/badge/15%2B-Coding%20Contests-7C3AED?style=for-the-badge"/>
+
+</div>
+
+Focused on:
+- Data Structures & Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Problem Solving & Optimization
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pandeydisha23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeydisha23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pandeydisha23&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pandeydisha23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeydisha23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=pandeydisha23&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pandeydisha23&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pandeydisha23&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://linkedin.com/in/disha-pandey-87a39035b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/pandeydisha23">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  💌 Open to learning opportunities, collaborations and interesting projects!
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeydisha23&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-<h3 align="center">✨ "Dream • Code • Innovate" ✨</h3>
+## 🤝 Let's Connect
 
-<p align="center">
-  Thanks for visiting my profile! Keep exploring and keep building. 💜
-</p>
+<div align="center">
+
+I'm always interested in connecting with developers, exploring innovative ideas and collaborating on impactful projects.
+
+<a href="https://linkedin.com/in/disha-pandey-87a39035b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pandeydisha23">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ✨ Think. Build. Innovate.
+
+*"The best way to predict the future is to create it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:090A1A&height=120&section=footer" width="100%"/>
+
+</div>
