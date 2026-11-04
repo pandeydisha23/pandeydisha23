@@ -5,24 +5,35 @@
        height="250"
        alt="Disha Pandey GitHub Banner"/>
 </div>
-
 <div align="center">
 
-<div align="center">
+  <h1>👋 Hi, I'm Disha Pandey!</h1>
 
-# 👋 Hi, I'm Disha Pandey!
+  <h3>
+    Computer Science Engineer | Software Developer<br>
+    AI Aficionado | MERN STACK Developer
+  </h3>
 
-### 💻 Computer Science Engineer | Software Developer | AI Aficionado | MERN STACK Developer
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Impactful+Software;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Impactful+Software" alt="Professional tagline"/>
-</p>
+  <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-059669?style=flat-square"/>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MERN%20Stack-6D28D9?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Software%20Development-4C1D95?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/disha-pandey-87a39035b/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/pandeydisha23">
+      <img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
+  <h3>✦ Building Intelligent Solutions • Exploring AI/ML • Creating Impact ✦</h3>
 
 </div>
 
