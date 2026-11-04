@@ -1,11 +1,31 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  <img src="profile-banner.png"
+  <img src="profile- banner.png"
        width="100%"
        alt="Disha Pandey - GitHub Profile Banner"/>
 </div>
 
 <div align="center">
+
+<div align="center">
+
+# 👋 Hi, I'm Disha Pandey!
+
+### 💻 Computer Science Engineer | Software Developer | AI Aficionado | MERN STACK Developer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Impactful+Software" alt="Professional tagline"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-059669?style=flat-square"/>
+</p>
+
+</div>
+
+---
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;MERN+Stack+%7C+Software+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
