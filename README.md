@@ -1,4 +1,9 @@
 <!-- PROFILE HEADER -->
+<div align="center">
+  <img src="profile-banner.png"
+       width="100%"
+       alt="Disha Pandey - GitHub Profile Banner"/>
+</div>
 
 <div align="center">
 
