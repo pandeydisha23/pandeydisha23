@@ -2,7 +2,7 @@
 <div align="center">
   <img src="profile- banner.png"
        width="100%"
-       height="250"
+       height="350"
        alt="Disha Pandey GitHub Banner"/>
 </div>
 <div align="center">
