@@ -1,8 +1,8 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  <img src="profile- banner.png"
+  <img src="profile-banner.png"
        width="100%"
-       alt="Disha Pandey - GitHub Profile Banner"/>
+       alt="Disha Pandey | AI & Software Developer"/>
 </div>
 
 <div align="center">
